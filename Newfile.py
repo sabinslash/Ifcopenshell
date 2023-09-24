@@ -62,6 +62,3 @@ my_ids.validate(my_ifc)
 
 # show results:
 reporter.Console(my_ids).report()
-
-//import ifcopenshell
-i dont mind this file to initialize again and again
